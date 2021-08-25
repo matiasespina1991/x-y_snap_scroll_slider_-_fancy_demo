@@ -122,10 +122,6 @@ section {
 }
 
 .radio-btn-y-container label:hover {
-<<<<<<< HEAD
-  background: rgb(255 253 199) !important;
-=======
->>>>>>> d9afc08a3de9767fa4bfc28d5d29f57fb250f2cf
   box-shadow: 1.6px 1.8px 0.8px #00000057;
 }
 
@@ -161,10 +157,6 @@ section {
 }
 
 .radiox-1 label:hover {
-<<<<<<< HEAD
-  background: rgba(255, 253, 199) !important;
-=======
->>>>>>> d9afc08a3de9767fa4bfc28d5d29f57fb250f2cf
   box-shadow: 1px 1px 1px #00000057;
 }
 
@@ -184,8 +176,6 @@ section {
 .background-img:hover {
   filter: blur(0);
 }
-<<<<<<< HEAD
-=======
 
 @media screen and (max-width: 480px) {
   .radiox-1 label {
@@ -198,4 +188,3 @@ section {
     background: rgba(255, 253, 199) !important;
   }
 }
->>>>>>> d9afc08a3de9767fa4bfc28d5d29f57fb250f2cf
